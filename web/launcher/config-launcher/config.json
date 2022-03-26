@@ -1,7 +1,7 @@
 {
-  "maintenance": "off",
+  "maintenance": "on",
   "maintenance_message": "Le serveur fait sa mise en beauté.<br>Merci de bien vouloir essayer ultérieurement.",
-  "offline": "on",
+  "offline": "off",
   "client_id": "",
   "game_version": "1.7.10",
   "custom": true,
