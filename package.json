@@ -4,7 +4,7 @@
   "productName": "Justaven Launcher",
   "description": "Justaven Launcher",
   "main": "app/index.html",
-  "author": "Luuxis",
+  "author": "FlexXy Corp",
   "window": {
     "title": "Justaven update",
     "width": 400,
@@ -18,7 +18,7 @@
     "node": "16.x.x"
   },
   "chromium-args": "--enable-logging --v=1 --disable-gpu --mixed-content",
-  "url": "http://launcher.selvania.fr",
+  "url": "https://flexxycorp.000webhostapp.com/",
   "user": "",
   "webkit": {
     "plugin": true
